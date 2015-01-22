@@ -1,0 +1,123 @@
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.pdb
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\Antlr3.Runtime.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.AspNet.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.Core.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\EntityFramework.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\Microsoft.Web.Infrastructure.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\System.Web.Optimization.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\System.Web.Providers.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\WebGrease.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\EntityFramework.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.Core.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.AspNet.xml
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.csprojResolveAssemblyReference.cache
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.dll
+D:\Course.Net\Workbench\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.dll.config
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\Antlr3.Runtime.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.AspNet.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\EntityFramework.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\System.Web.Optimization.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\System.Web.Providers.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\WebGrease.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\EntityFramework.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.Core.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.AspNet.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.pdb
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.dll.config
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\GuestTheNumber.pdb
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\Antlr3.Runtime.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.AspNet.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.Core.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\EntityFramework.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\Microsoft.Web.Infrastructure.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\System.Web.Optimization.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\System.Web.Providers.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\WebGrease.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\EntityFramework.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.Core.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\bin\DotNetOpenAuth.AspNet.xml
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.csprojResolveAssemblyReference.cache
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.dll
+D:\Workbench\GitHub\GuestTheNumber\GuestTheNumber\obj\Debug\GuestTheNumber.pdb
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\obj\Debug\GuestTheNumber.csprojResolveAssemblyReference.cache
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\obj\Debug\GuestTheNumber.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\GuestTheNumber.dll.config
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\GuestTheNumber.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\GuestTheNumber.pdb
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\Antlr3.Runtime.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.AspNet.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.Core.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OAuth.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OpenId.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\EntityFramework.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\Microsoft.Web.Infrastructure.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\System.Web.Optimization.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\System.Web.Providers.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\WebGrease.dll
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\EntityFramework.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.Core.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OAuth.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OpenId.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\bin\DotNetOpenAuth.AspNet.xml
+D:\Workbench\Visual Studio 2013\GuestTheNumberFix\GuestTheNumber\obj\Debug\GuestTheNumber.pdb
